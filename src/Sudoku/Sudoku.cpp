@@ -1,10 +1,10 @@
-#include"stdafx.h"
 #include<iostream>
 #include<stdio.h>
 #include<stdlib.h>
 #include<fstream>
 #include<cmath>
 #pragma warning(disable:4996)
+#include"stdafx.h"
 using namespace std;
 int s[10][10], s1[10][10];
 int flag = 0, pan = 0;
