@@ -1,4 +1,1 @@
 ﻿  Sudoku.cpp
-d:\github\031702430\src\sudoku\sudoku.cpp(46): warning C4715: “check2”: 不是所有的控件路径都返回值
-d:\github\031702430\src\sudoku\sudoku.cpp(76): warning C4715: “check3”: 不是所有的控件路径都返回值
-d:\github\031702430\src\sudoku\sudoku.cpp(107): warning C4715: “dfs”: 不是所有的控件路径都返回值
